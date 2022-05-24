@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '自由在高处',
-  domain: 'https://www.notion.so/bohryh/Blog-34dddbf7c4ac489caeae11e6251b02ff',
+  domain: 'https://bohryh.notion.site/fd2cd888e72c455e8fd929f11b1bf557',
   author: 'Bohr Yue',
 
   // open graph metadata (optional)
